@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e2b39f53-a8b7-4b85-99ef-d869df5b1978/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/ApiFraseEncurta",
+    "appService.deploySubpath": ""
+}

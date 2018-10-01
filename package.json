@@ -1,0 +1,19 @@
+{
+  "name": "encurtaApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "resquel": "^1.0.0",
+    "resquel-multiconnect": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
